@@ -7,7 +7,7 @@ async  function Blog() {
   return (
     <>
    <div className="container mx-auto py-5">
-    <h1 className="text-2lg font-bold text-center mb-5">
+    <h1 className="text-2lg text-center mb-5">
         Blog WEBDEVINDO
         </h1>
    <div className="grid grid-cols-4 gap-4">
